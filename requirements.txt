@@ -1,5 +1,5 @@
 Python 3.7 or higher
-Libraries:
+streamlit
 Dash
 Plotly
 pandas
