@@ -1,7 +1,9 @@
-streamlit
+Python 3.7 or higher
+Libraries:
+Dash
+Plotly
 pandas
-plotly
-scikit-learn
-xgboost
-numpy
+Scikit-learn
+XGBoost
+NumPy
 
